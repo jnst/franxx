@@ -1,0 +1,26 @@
+{
+  "name": "franxx",
+  "version": "0.0.1",
+  "description": "exchange balance check site",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnst/franxx.git"
+  },
+  "keywords": [
+    "bitfinex"
+  ],
+  "author": "jnst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnst/franxx/issues"
+  },
+  "homepage": "https://github.com/jnst/franxx#readme"
+}
