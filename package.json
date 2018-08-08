@@ -4,7 +4,12 @@
   "description": "exchange balance check site",
   "main": "app.js",
   "dependencies": {
-    "koa": "^2.5.0"
+    "ansicolor": "^1.1.71",
+    "as-table": "^1.0.31",
+    "asciichart": "^1.5.7",
+    "ccxt": "^1.11.53",
+    "koa": "^2.5.0",
+    "ololog": "^1.1.86"
   },
   "devDependencies": {},
   "scripts": {
